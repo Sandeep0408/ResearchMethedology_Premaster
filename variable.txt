@@ -1,0 +1,20 @@
+Variables	Correlation	Category
+Adult_Mortality	-0.7	Category IV
+infant_deaths	-0.1	Category III
+Alcohol	0.4	Category II
+percentage_expenditure	0.4	Category II
+HepatitisB	0.2	Category II
+Measles	-0.06	Category III
+BMI	0.5	Category II
+under_five_deaths	-0.1	Category III
+Polio	0.3	Category II
+Total_expenditure	0.1	Category II
+Diphtheria	0.3	Category II
+HIV_AIDS	-0.5	Category IV
+GDP	0.4	Category II
+Population	-0.2	Category III
+thinness_1-19_years	-0.5	Category IV
+thinness_5-9_years	-0.5	Category IV
+Income_composition_of_resources	0.7	Category I
+Schooling	0.7	Category I
+
